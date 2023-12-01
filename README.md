@@ -4,5 +4,5 @@
 3. Retrive simulation data from database
 
 # Structure
-1. Parameter table to save parameters containing its para_id
-2. Strength table to save strengtb with its para_id
+- Parameter table to save parameters containing its para_id
+- Strength table to save strengtb with its para_id
